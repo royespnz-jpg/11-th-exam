@@ -5,7 +5,7 @@
 
 /* PASTE HERE the /exec URL of the NEW Apps Script deployment
    for the 11th grade Google Sheet (see apps-script.gs). */
-const APPS_SCRIPT_URL = "PASTE_YOUR_NEW_11TH_GRADE_APPS_SCRIPT_URL_HERE";
+const APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbxVe3LCHus6Wz-736NI4ytTUz8k4DtUvqIj0Hkvxu7ODTiQYi5vDqbL0XBizm--UXBe/exec";
 
 let examLocked = false;
 
